@@ -1,0 +1,3 @@
+
+rootProject.name = "DictionaryClean"
+include ':app'
